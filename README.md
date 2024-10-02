@@ -6,6 +6,8 @@ This is a Data Analysis Project as part of the Dicoding course "Belajar Analisis
 - Exploratory Data Analysis (EDA), which can be found in the provided Jupyter Notebook.
 - A dashboard built using the Streamlit framework.
 
+**NOTE: The Business Problem Statement can be found on the notebook**
+
 ------------------------------------------------------
 
 ## How to Run
